@@ -1,5 +1,0 @@
-package com.api.gateway.config;
-
-public class SecurityConfig {
-
-}

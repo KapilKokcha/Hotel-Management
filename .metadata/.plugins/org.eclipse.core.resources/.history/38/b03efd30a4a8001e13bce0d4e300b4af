@@ -1,5 +1,0 @@
-package com.api.gateway.controller;
-
-public class AuthController {
-
-}
